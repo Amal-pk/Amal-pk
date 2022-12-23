@@ -1,4 +1,4 @@
-[![MasterHead](https://semidotinfotech.com/blog/wp-content/uploads/2020/02/33-800x480-1.jpg.)](https://Amal-pk.io)
+[![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://Amal-pk.io)
 <h1 align="center">Hi 👋, I'm Amal PK</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 <img align="center" alt=Coding" width="400" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
