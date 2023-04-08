@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/amal" target="blank"><img src="https://img.shields.io/twitter/follow/amal?logo=twitter&style=for-the-badge" alt="amal" /></a> </p>
 
-- 🔭 I’m currently working on **Bshoot**
+- 🔭 I’m currently working on **ManyaTechnosys**
 
 - 🌱 I’m currently learning **Flutter**
 
