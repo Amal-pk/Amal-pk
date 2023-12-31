@@ -19,11 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amal" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/amal-pk-b478b1208" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="www.linkedin.com/in/amal-pk-b478b1208" height="40" width="40" /></a>
-<a href="https://fb.com/amal ashok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amal ashok" height="40" width="40" /></a>
+<a href="https://twitter.com/amal" target="blank"><img align="center" src="https://image.shutterstock.com/image-photo/image-260nw-2339132689.jpg" alt="amal" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/amal-pk-b478b1208" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="www.linkedin.com/in/amal-pk-b478b1208" height="40" width="40" /></a>
+<a href="https://fb.com/amal ashok" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2048px-Facebook_icon.svg.png" alt="amal ashok" height="40" width="40" /></a>
 <a href="https://instagram.com/am.al__pk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="am.al__pk" height="40" width="40" /></a>
-<a href="https://discord.gg/Amal Pk #2147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Amal Pk #2147" height="40" width="40" /></a>
+<a href="https://discord.gg/Amal Pk #2147" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/discord-new-20218785.jpg" alt="Amal Pk #2147" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
